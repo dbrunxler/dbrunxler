@@ -14,7 +14,7 @@ Me chamo David, tenho 24 anos, sou da cidade do Rio de Janeiro/RJ, sou um apreci
 
 ## Linguagens e Tecnologias 💻
 <div>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,dotnet&theme=dark"></a>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,dotnet&theme=dark">
 </div>
 
 ## Estatísticas 📊
