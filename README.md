@@ -19,5 +19,8 @@ Me chamo David, tenho 24 anos, sou da cidade do Rio de Janeiro/RJ, sou um apreci
 
 ## Estatísticas 📊
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbrunxler&show_icons=true&include_all_commits=true&line_height=27&theme=dark)](https://github.com/dbrunxler)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrunxler&theme=dark)](https://github.com/dbrunxler)
+<div>
+  <a href="https://github.com/dbrunxler"></a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dbrunxler&show_icons=true&include_all_commits=true&line_height=27&theme=dark">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbrunxler&theme=dark">
+</div>
