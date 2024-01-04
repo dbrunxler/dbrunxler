@@ -9,8 +9,8 @@ Me chamo David, tenho 24 anos, sou da cidade do Rio de Janeiro/RJ, sou um apreci
 </div>
 
 ## Formações 🎓
-- Jogos Digitais (IBMR) 🎮
-- Formação .NET (SENAC/RJ) [Em curso...]
+- Jogos Digitais (IBMR)
+- Formação .NET (SENAC/RJ)
 
 ## Linguagens e Tecnologias 💻
 <div>
